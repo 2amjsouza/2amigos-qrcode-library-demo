@@ -1,0 +1,21 @@
+html, body {
+    background: #191a1f;
+}
+
+.card {
+    background: #4d4f5e;
+    border: 1px solid #80839a;
+    color: #eee;
+}
+
+a, b, .card-title {
+    color: #fff;
+}
+
+p {
+    color: #eee;
+}
+
+a:hover {
+    color: #ddd;
+}
